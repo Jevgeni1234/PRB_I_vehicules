@@ -1,0 +1,55 @@
+Model: rt3000
+Plate Style: 1
+Plate Text:   UWU   
+Primary Colour: 135
+Secondary Colour: 135
+Pearl Colour: 141
+Wheel Colour: 154
+Wheel Type: 12
+Spoiler: 2
+Front Bumper: 5
+Rear Bumper: 9
+Exhaust: 4
+Grille: 5
+Hood: 5
+Fender: 2
+Right Fender: 1
+Roof: 6
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 11
+Vanity Plates: 0
+Trim: 2
+Dashboard: 1
+Seats: 7
+Door Speaker: 7
+Steering Wheel: 14
+Engine Block: 4
+Air Filter: 10
+Struts: 9
+Arch Cover: 1
+Left Door: 0
+Right Door: 1
+Livery: 10
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 74
+Dashboard Colour: 111
+Tyres Mode: 1

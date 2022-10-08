@@ -1,0 +1,45 @@
+Model: zion3
+Plate Style: 1
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 0
+Pearl Colour: 145
+Wheel Colour: 145
+Wheel Type: 7
+Spoiler: 1
+Front Bumper: 5
+Rear Bumper: 2
+Sideskirt: 5
+Exhaust: 4
+Chassis: 0
+Grille: 1
+Hood: 4
+Fender: 1
+Right Fender: 0
+Roof: 5
+Engine: 4
+Brakes: 3
+Transmission: 4
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 10
+Livery: 6
+Tyre Smoke Colour: #cb3694
+Window Tint: 3
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1

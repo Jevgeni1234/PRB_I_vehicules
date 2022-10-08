@@ -1,0 +1,46 @@
+Model: slamvan6
+Plate Style: 0
+Plate Text: 24ULI022
+Primary Colour: 135
+Secondary Colour: 135
+Pearl Colour: 135
+Wheel Colour: 156
+Wheel Type: 0
+Spoiler: 0
+Rear Bumper: 3
+Chassis: 2
+Grille: 2
+Hood: 1
+Right Fender: 3
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Armor: 4
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 0
+Plaques: 0
+Air Filter: 4
+Struts: 3
+Arch Cover: 6
+Aerials: 0
+Trim2: 1
+Tank: 2
+Livery: 1
+Tyre Smoke Colour: #ffffff
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #ff05be
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 137
+Dashboard Colour: 132
+Tyres Mode: 2

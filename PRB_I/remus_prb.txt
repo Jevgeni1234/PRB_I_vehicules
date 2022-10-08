@@ -1,0 +1,60 @@
+Model: remus
+Plate Style: 4
+Plate Text:   UWU   
+Primary Colour: 112
+Secondary Colour: 112
+Pearl Colour: 145
+Wheel Colour: 154
+Wheel Type: 12
+Spoiler: 1
+Front Bumper: 3
+Rear Bumper: 1
+Sideskirt: 3
+Exhaust: 3
+Chassis: 0
+Grille: 4
+Hood: 0
+Fender: 5
+Right Fender: 1
+Roof: 2
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 8
+Vanity Plates: 1
+Trim: 1
+Dashboard: 2
+Dial: 13
+Seats: 6
+Door Speaker: 6
+Steering Wheel: 4
+Trunk: 0
+Engine Block: 1
+Air Filter: 10
+Struts: 9
+Arch Cover: 5
+Trim2: 4
+Tank: 1
+Right Door: 1
+Livery: 10
+Tyre Smoke Colour: #cb3694
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #0353ff
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 112
+Dashboard Colour: 112
+Tyres Mode: 1

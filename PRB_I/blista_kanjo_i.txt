@@ -1,0 +1,49 @@
+Model: kanjo
+Plate Style: 4
+Plate Text:   UWU   
+Primary Colour: 0
+Secondary Colour: 31
+Pearl Colour: 68
+Wheel Colour: 0
+Wheel Type: 0
+Spoiler: 7
+Front Bumper: 8
+Rear Bumper: 3
+Sideskirt: 0
+Exhaust: 1
+Chassis: 0
+Grille: 0
+Hood: 5
+Fender: 9
+Right Fender: 0
+Roof: 0
+Engine: 4
+Brakes: 3
+Transmission: 3
+Horns: 0
+Suspension: 4
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 0
+Front Wheels: 24
+Trim: 1
+Arch Cover: 1
+Left Door: 1
+Livery: 12
+Tyre Smoke Colour: #141414
+Window Tint: 1
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #00ff8c
+Neon Front: Yes
+Neon Back: Yes
+Neon Left: Yes
+Neon Right: Yes
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
+Extra 1: Yes

@@ -1,0 +1,39 @@
+Model: shinobi
+Plate Style: 1
+Plate Text:   UWU   
+Primary Colour: 145
+Secondary Colour: 33
+Pearl Colour: 88
+Wheel Colour: 33
+Wheel Type: 6
+Front Bumper: 0
+Sideskirt: 1
+Exhaust: 3
+Chassis: 1
+Hood: 0
+Engine: 4
+Brakes: 4
+Transmission: 4
+Horns: 34
+Armor: 5
+Nitrous: No
+Turbo: Yes
+Subwoofer: No
+Tiresmoke: Yes
+Unk21: No
+Headlights: 12
+Front Wheels: 40
+Back Wheels: 40
+Livery: 8
+Tyre Smoke Colour: #cb3694
+Window Tint: 0
+Custom Primary Colour: 
+Custom Secondary Colour: 
+Neon Colour: #000000
+Neon Front: No
+Neon Back: No
+Neon Left: No
+Neon Right: No
+Interior Colour: 1
+Dashboard Colour: 0
+Tyres Mode: 1
